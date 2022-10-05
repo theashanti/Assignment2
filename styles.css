@@ -1,0 +1,8 @@
+h1 { text-align: center;}
+p {color:grey; text-align: center;}
+div { background-color: rgba(255, 236, 165, 0.907);text-align: center;}
+table, th, td { margin-left: 100; margin-right: 100;}
+footer { position: fixed; bottom: 0; width: 100%; color: white; text-align: center;}
+header {background-color: grey;text-align: center;font-size: x-large; }
+.WebContainer{width: 100%; height: auto;}
+.articles{width:90%;height: auto;margin: auto;} 
